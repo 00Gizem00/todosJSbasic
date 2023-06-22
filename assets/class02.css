@@ -1,0 +1,15 @@
+.kutu{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+}
+
+.icKutu{
+    width: 75px;
+    height: 75px;
+    background-color: yellow;
+}
+
+form {
+    margin-top: 50px;
+}
